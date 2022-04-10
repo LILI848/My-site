@@ -1,0 +1,43 @@
+baseURL: ""
+languageCode: en-us
+title: Lily's blog
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: "Hello World"
+    Content: "Welcome to my blog."
+  socialIcons:
+    - name: email
+      url:
+    - name: twitter
+      url: "https://twitter.com"
+    - name: qq
+      url:
+
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
+  comments: true
+  ShowReadingTime: true
+  ShowShareButtons: true
+  cover:
+    linkFullImages: true
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: archives
+      name: Archive
+      url: /archives/
+      weight: 30
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 40
