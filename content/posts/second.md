@@ -5,3 +5,4 @@ draft: false
 ---
 
 this is the second post.
+中文测试。
