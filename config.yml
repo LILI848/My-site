@@ -1,12 +1,20 @@
 baseURL: "https://lives.rocks"
 languageCode: en-us
-title: Lily's blog
+title: Safe-Zone
 theme: PaperMod
 
 params:
   homeInfoParams:
-    Title: "Hello World"
-    Content: "Welcome to my blog."
+    Title: "龙衔海珠，游鱼不顾
+    \n\n\n
+     
+    "
+    Content: "Welcome to my blog. Everything about tech, daily life, and fun.
+    \n\n\n
+    \n\n\n
+    \n\n\n
+    本博客是阿息的文字自留地，分类为技术随感，日常琐碎，堆文仓库，欢迎来玩耍的各位👏
+    "
 
   socialIcons:
     - name: email
@@ -23,23 +31,24 @@ params:
   ShowCodeCopyButtons: true
   cover:
     linkFullImages: true
+    responsiveImages: true
 
 menu:
   main:
     - identifier: categories
-      name: Categories
+      name: 分类-Categories 
       url: /categories/
       weight: 10
     - identifier: tags
-      name: Tags
+      name: 标签-Tags
       url: /tags/
       weight: 20
     - identifier: archives
-      name: Archive
+      name: 归档-Archive
       url: /archives/
       weight: 30
     - identifier: search
-      name: Search
+      name: 搜索-Search
       url: /search/
       weight: 40
 
