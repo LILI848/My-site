@@ -21,7 +21,7 @@ Flowey Is Not a Good Life Coach/小心花朵会说话
 
 授权截图：
 
-![screenshot](screenshot/fnglc.png)
+![screenshot](https://github.com/LILI848/My-site/blob/master/content/posts/slash/screenshot/fnglc.png?raw=true)
 
 ---
 
