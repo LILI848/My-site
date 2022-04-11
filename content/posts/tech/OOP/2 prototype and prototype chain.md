@@ -1,6 +1,6 @@
 ---
 title: "[OOP_2] The prototype chain"
-date: 2022-04-10T04:38:01+01:00
+date: 2022-04-10T04:40:01+01:00
 draft: false
 tags: ["javascript", "OOP"]
 categories: ["技术随感 tech"]
@@ -47,7 +47,7 @@ user1.increment();
 ```
 
 - 4. map it out
-     ![OOP2](https://github.com/LILI848/My-site/blob/master/content/posts/tech/OOP/OOP_JS_img/4.png?raw=true)
+     ![OOP2](https://github.com/LILI848/My-site/blob/master/content/posts/tech/OOP/OOP_JS_img/4.jpg?raw=true)
 
 # **proto**
 
@@ -122,9 +122,9 @@ user1.increment();
 ```
 
 - map it out
-  ![OOP2](https://github.com/LILI848/My-site/blob/master/content/posts/tech/OOP/OOP_JS_img/3.png?raw=true)
+  ![OOP2](https://github.com/LILI848/My-site/blob/master/content/posts/tech/OOP/OOP_JS_img/3.jpg?raw=true)
 
-  ![OOP2](https://github.com/LILI848/My-site/blob/master/content/posts/tech/OOP/OOP_JS_img/5.png?raw=true)
+  ![OOP2](https://github.com/LILI848/My-site/blob/master/content/posts/tech/OOP/OOP_JS_img/5.jpg?raw=true)
 
 # How to make this process more efficient?
 
@@ -133,9 +133,9 @@ user1.increment();
 
   1. create a new user obj;
   2. return a new user obj;
-     ![OOP2](https://github.com/LILI848/My-site/blob/master/content/posts/tech/OOP/OOP_JS_img/6.png?raw=true)
+     ![OOP2](https://github.com/LILI848/My-site/blob/master/content/posts/tech/OOP/OOP_JS_img/6.jpg?raw=true)
      - map it out
-       ![OOP2](https://github.com/LILI848/My-site/blob/master/content/posts/tech/OOP/OOP_JS_img/7.png?raw=true)
+       ![OOP2](https://github.com/LILI848/My-site/blob/master/content/posts/tech/OOP/OOP_JS_img/7.jpg?raw=true)
 
   **Note: the userCreator.prototyp is a hidden property of userCreator called prototype.**
 

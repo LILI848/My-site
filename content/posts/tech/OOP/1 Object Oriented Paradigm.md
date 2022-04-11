@@ -167,7 +167,7 @@ user1.increment();
 
 ## map it out:
 
-![OOP2](https://github.com/LILI848/My-site/blob/master/content/posts/tech/OOP/OOP_JS_img/2.png?raw=true)
+![OOP2](https://github.com/LILI848/My-site/blob/master/content/posts/tech/OOP/OOP_JS_img/2.jpg?raw=true)
 
 **note: the two parameters should be the first thing stored in the local memory and then the newUser object.**
 
