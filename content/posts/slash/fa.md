@@ -2,7 +2,7 @@
 title: "【同人/FA】Es tan corto el amor y tan largo el olvido"
 date: 2015-09-06T09:38:01+01:00
 draft: false
-tags: ["同人", 钢炼", "anime"]
+tags: ["同人", "钢炼", "anime"]
 categories: ["堆文仓库 entertainment"]
 summary: 爱那么短，遗忘这么长。
 ---

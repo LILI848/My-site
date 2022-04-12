@@ -4,10 +4,10 @@ date: 2022-04-10T04:38:01+01:00
 draft: false
 tags: ["javascript", "OOP"]
 categories: ["技术随感 tech"]
-summary: an approach to orgnize our code
+summary: Class notes of FrontendMaster's course- OOP JS part 1
 ---
 
-# Why OOP?
+# Why JS OOP?
 
 ### How to structure complex data
 
@@ -27,7 +27,9 @@ summary: an approach to orgnize our code
 
 - Just put data in an object.
 
-# \* Three ways to create obj
+Note: JS is a prototypal language faking object-oriented language.
+
+# \* Three ways to create obj in JS
 
 # Method 1 - creating an object literal
 
