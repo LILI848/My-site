@@ -1,5 +1,5 @@
 ---
-title:
+title: 画
 date: 2022-04-11T07:38:01+01:00
 draft: false
 cover:
