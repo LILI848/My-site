@@ -1,5 +1,5 @@
 ---
-title: "【同人/UT】夭折未遂 "
+title: "【同人/Undertale】夭折未遂 "
 date: 2016-12-10T06:50:01+01:00
 draft: false
 tags: ["同人", "undertale", "game"]

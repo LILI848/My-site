@@ -4,31 +4,12 @@ title: Safe-Zone
 theme: PaperMod
 
 params:
-  homeInfoParams:
-    Title: "龙衔海珠，游鱼不顾
-    \n\n\n
-     
-    "
-    Content: "Welcome to my blog. Everything about tech, life, and fun.
-    \n\n\n
-    \n\n\n
-    \n\n\n
-    本博客是阿息的文字自留地，分类为技术随感，日常琐碎，堆文仓库，欢迎来玩耍的各位👏
-    "
-
-  socialIcons:
-    - name: email
-      url:
-    - name: twitter
-      url: "https://twitter.com"
-    - name: qq
-      url:
-
   ShowBreadCrumbs: true
   ShowPostNavLinks: true
   comments: true
   ShowReadingTime: true
   ShowCodeCopyButtons: true
+
   cover:
     linkFullImages: true
     responsiveImages: true
@@ -36,19 +17,19 @@ params:
 menu:
   main:
     - identifier: categories
-      name: 分类-Categories 
+      name: Categories
       url: /categories/
       weight: 10
     - identifier: tags
-      name: 标签-Tags
+      name: Tags
       url: /tags/
       weight: 20
     - identifier: archives
-      name: 归档-Archive
+      name: Archive
       url: /archives/
       weight: 30
     - identifier: search
-      name: 搜索-Search
+      name: Search
       url: /search/
       weight: 40
 
@@ -57,3 +38,4 @@ outputs:
     - HTML
     - RSS
     - JSON # is necessary
+

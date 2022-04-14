@@ -1,5 +1,5 @@
 ---
-title: "友链"
+title: "Friends"
 date: 2022-04-02
 layout: "links"
 menu: "main"

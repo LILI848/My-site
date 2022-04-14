@@ -1,5 +1,5 @@
 ---
-title: "【同人翻译/UT】 致歉人"
+title: "【同人翻译/Undertale】 致歉人"
 date: 2016-06-12T04:38:01+01:00
 draft: false
 tags: ["同人", "undertale", "game"]

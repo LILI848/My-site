@@ -1,5 +1,5 @@
 ---
-title: "【同人/UT】告白信 "
+title: "【同人/Undertale】告白信 "
 date: 2016-04-10T09:38:01+01:00
 draft: false
 tags: ["同人", "undertale", "game"]

@@ -1,5 +1,5 @@
 ---
-title: "【同人/UT】无题 "
+title: "【同人/Undertale】无题 "
 date: 2016-04-10T08:50:01+01:00
 draft: false
 tags: ["同人", "undertale", "game"]
